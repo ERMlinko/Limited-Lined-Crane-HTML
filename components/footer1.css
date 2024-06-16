@@ -1,0 +1,224 @@
+.footer1-footer1 {
+  width: 100%;
+  height: 931px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 40px;
+  flex-direction: column;
+  padding-bottom: 112px;
+  justify-content: center;
+}
+.footer1-max-width {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.footer1-content {
+  gap: var(--dl-space-space-oneandhalfunits);
+  top: 171px;
+  flex: 1;
+  right: 149px;
+  width: 297px;
+  height: 605px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+}
+.footer1-contact-info {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.footer1-link {
+  top: 168px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+  background-color: #0101dc;
+}
+.footer1-link1 {
+  top: 242px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-style: normal;
+  font-weight: 600;
+  text-decoration: none;
+  background-color: #30c100;
+}
+.footer1-text {
+  top: 109px;
+  right: 66px;
+  height: 45px;
+  position: absolute;
+  align-self: stretch;
+  text-align: center;
+}
+.footer1-link2 {
+  top: 312px;
+  left: 0px;
+  color: #ffffff;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-decoration: none;
+  background-color: #156fd6;
+}
+.footer1-content1 {
+  gap: var(--dl-space-space-fourunits);
+  top: 3px;
+  right: 66px;
+  width: 1115px;
+  height: 214px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: var(--dl-radius-radius-radius4);
+  justify-content: flex-start;
+}
+.footer1-text01 {
+  left: 44px;
+  color: #007f7f;
+  bottom: 35px;
+  position: absolute;
+  font-size: 85px;
+  font-style: normal;
+  font-weight: 800;
+}
+.footer1-text1 {
+  left: 52px;
+  color: #181819;
+  bottom: 34px;
+  position: absolute;
+  font-size: 85px;
+  font-style: normal;
+  font-weight: 800;
+}
+.footer1-content2 {
+  gap: var(--dl-space-space-unit);
+  top: 168px;
+  right: 492px;
+  width: 319px;
+  height: 414px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.footer1-text02 {
+  top: 112px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.footer1-link3 {
+  top: 195px;
+  left: 94px;
+  position: absolute;
+  text-decoration: none;
+}
+.footer1-text03 {
+  top: 112px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.footer1-text04 {
+  top: 281px;
+  left: 91px;
+  height: 31px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+}
+.footer1-text08 {
+  top: 166px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  text-align: center;
+}
+.footer1-link4 {
+  top: 221px;
+  left: 20px;
+  position: absolute;
+  text-decoration: none;
+}
+.footer1-link5 {
+  left: 89px;
+  bottom: 74px;
+  position: absolute;
+  text-decoration: none;
+}
+.footer1-link6 {
+  left: 28px;
+  bottom: 47px;
+  position: absolute;
+  text-decoration: none;
+}
+.footer1-content3 {
+  gap: var(--dl-space-space-unit);
+  top: 215px;
+  left: 95px;
+  width: 414px;
+  height: 580px;
+  display: flex;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer1-text09 {
+  top: 53px;
+  left: 138px;
+  width: var(--dl-size-size-large);
+  position: absolute;
+  align-self: stretch;
+  text-align: center;
+}
+.footer1-text10 {
+  top: 102px;
+  left: 9px;
+  width: 405px;
+  height: 82px;
+  position: absolute;
+  text-align: center;
+}
+.footer1-container {
+  left: 5px;
+  width: 397px;
+  bottom: 11px;
+  height: 306px;
+  position: absolute;
+}
+.footer1-container1 {
+  display: contents;
+}
+@media(max-width: 767px) {
+  .footer1-content1 {
+    flex-direction: column;
+  }
+}

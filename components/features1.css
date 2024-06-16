@@ -1,0 +1,229 @@
+.features1-layout251 {
+  width: 1200px;
+  height: 1073px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: 0px;
+}
+.features1-max-width {
+  gap: var(--dl-space-space-threeunits);
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.features1-column {
+  gap: var(--dl-space-space-halfunit);
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.features1-text {
+  fill: #045c8c;
+  color: #045c8c;
+}
+.features1-content {
+  gap: 48px;
+  height: 916px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.features1-row {
+  width: 1154px;
+  height: 100%;
+  align-items: flex-start;
+}
+.features1-feature1 {
+  flex: 1;
+  height: 915px;
+}
+.features1-feature1-image {
+  width: 267px;
+  height: 354px;
+}
+.features1-content1 {
+  height: 50%;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.features1-feature1-title {
+  width: 267px;
+}
+.features1-feature1image2 {
+  top: 87px;
+  right: 0px;
+  width: 262px;
+  height: 179px;
+  position: absolute;
+  object-fit: cover;
+}
+.features1-feature1-description {
+  right: -3px;
+  width: 267px;
+  bottom: -24px;
+  position: absolute;
+}
+.features1-feature4 {
+  flex: 1;
+  height: 914px;
+}
+.features1-feature4-image {
+  width: 267px;
+  height: 355px;
+}
+.features1-feature4-title {
+  width: 267px;
+  height: 52px;
+}
+.features1-content2 {
+  height: 446px;
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+}
+.features1-feature4-description {
+  left: -1px;
+  width: 267px;
+  bottom: 0px;
+  position: absolute;
+}
+.features1-feature1-image1 {
+  top: -3px;
+  right: 0px;
+  width: 264px;
+  height: 236px;
+  position: absolute;
+}
+.features1-feature2 {
+  flex: 1;
+}
+.features1-feature2-image {
+  width: 267px;
+  height: 355px;
+}
+.features1-content3 {
+  height: 498px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.features1-image {
+  width: 200px;
+  object-fit: cover;
+}
+.features1-feature2-description {
+  top: 311px;
+  left: 1px;
+  width: 267px;
+  position: absolute;
+}
+.features1-feature3 {
+  flex: 1;
+  width: 267px;
+}
+.features1-feature3-image {
+  height: 355px;
+}
+.features1-content4 {
+  height: 534px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.features1-image1 {
+  top: 89px;
+  left: -1px;
+  width: 267px;
+  height: 205px;
+  position: absolute;
+  object-fit: cover;
+}
+.features1-feature3-description {
+  top: 316px;
+  right: -4px;
+  position: absolute;
+}
+.features1-button {
+  left: 426px;
+  bottom: 3px;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  flex-direction: row;
+}
+.features1-actions {
+  gap: var(--dl-space-space-unit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+@media(max-width: 991px) {
+  .features1-section-title {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .features1-feature1-image {
+    height: 260px;
+  }
+  .features1-feature4-image {
+    height: 260px;
+  }
+  .features1-feature1-image1 {
+    height: 260px;
+  }
+  .features1-feature2-image {
+    height: 260px;
+  }
+  .features1-feature3-image {
+    height: 260px;
+  }
+}
+@media(max-width: 767px) {
+  .features1-column {
+    width: 100%;
+  }
+  .features1-text {
+    text-align: center;
+  }
+  .features1-row {
+    flex-direction: column;
+  }
+  .features1-feature1-image {
+    width: 100%;
+  }
+  .features1-feature4-image {
+    width: 100%;
+  }
+  .features1-feature1-image1 {
+    width: 100%;
+  }
+  .features1-feature2 {
+    width: auto;
+  }
+  .features1-feature2-image {
+    width: 100%;
+  }
+  .features1-feature3 {
+    width: auto;
+  }
+  .features1-actions {
+    flex-wrap: wrap;
+  }
+}
+@media(max-width: 479px) {
+  .features1-button {
+    width: 100%;
+  }
+  .features1-actions {
+    width: 100%;
+    flex-direction: column;
+  }
+}
